@@ -1,4 +1,3 @@
-6. 
 #include <stdio.h>
 /**
  * main - main block
